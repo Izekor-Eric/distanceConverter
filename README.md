@@ -14,5 +14,5 @@ java followed by the filename.
 
 # Useful Websites
 * Java Reference
-* [Linkedin Learning](https://www.linkedin.com/learning/paths/become-a-java-programmer?u=2153100)
+* [Linkedln Learning](https://www.linkedin.com/learning/paths/become-a-java-programmer?u=2153100)
 * [W3school](https://www.w3schools.com/java/default.asp)
