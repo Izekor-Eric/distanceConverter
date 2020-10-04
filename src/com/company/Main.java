@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 
-    // This function convert fahrenheit to celsius
+    // This function converts kilometer to miles
     public static void kilometer() {
         System.out.println("Press C to continue");
         System.out.println("Press R to return to the main menu");
@@ -26,7 +26,7 @@ public class Main {
         }
 
     }
-    // This function converts celsius to fahrenheit
+    // This function converts miles to kilometer
     public static void miles() {
         System.out.println("Press C to continue");
         System.out.println("Press R to return to the main menu");
@@ -38,7 +38,7 @@ public class Main {
                 System.out.print("Enter distance in miles: ");
                 float miles = myO.nextFloat();
 
-                System.out.println("Kilometer: " + (miles * 1.609)); // Celsius to fahrenheit formula
+                System.out.println("Kilometer: " + (miles * 1.609)); // miles to kilometer formula
             }
 
             if(choice.equals("R")) {
